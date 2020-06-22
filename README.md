@@ -25,3 +25,16 @@ This repository contains the code(s) for me&amp;my team's Capstone Project for J
     Dataset : https://drive.google.com/drive/folders/1siaauNRkofa029iyKFbTmwHJ9fmogRpy?usp=sharing  
     
     It has also been put in Datasets folders of this repository.
+    
+    
+
+2. Contour(s), Hull and Touch Co-ordinate Detection
+
+    Libraries Used: Opencv2 and numpy.
+	
+    
+    
+    
+    
+    
+
