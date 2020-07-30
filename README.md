@@ -5,13 +5,13 @@ This repository contains the code(s) for me&amp;my team's Capstone Project for J
 
     Programming Language Used: Python 3.6
     
-    Libraries Used:
+    Libraries and Technologies Used:
     •	Tensorflow
     •	Keras
     •	Matplotlib
     •	Os
     •	Numpy
-    •	Google.colab
+    •	Google colab
 
 
     •	Created a dataset with images (320x240). It contains 2 class of images.
